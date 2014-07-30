@@ -4,7 +4,7 @@ This library is an extension for Underscore which allows extending objects using
 
 ## Features
 
-* Extend with path as keys.
+* Extend using paths as keys.
 
 ## Dependencies
 
