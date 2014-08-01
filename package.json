@@ -3,7 +3,7 @@
   "description": "Underscore helper for extending objects using string paths",
   "version": "0.1.0",
   "author": "mateusmaso",
-  "keywords": ["underscore", "javascript", "path"],
+  "keywords": ["underscore", "javascript", "path", "extend"],
   "devDependencies": {
     "chai": "*",
     "mocha": "*",
