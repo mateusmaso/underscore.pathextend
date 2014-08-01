@@ -9,13 +9,20 @@ This library is an extension for Underscore which allows extending objects using
 ## Dependencies
 
 * underscore.js (>= 1.5)
+  * underscore.path
+
+## Node
+
+```javascript
+var _ = require('underscore');
+_.mixin(require('underscore.pathextend'));
+```
 
 ## Examples
 
 ```javascript
 var object = {foo: {bar: 123}};
-
-_.pathextend(object, {"foo.bar": 312});
+_.pathExtend(object, {"foo.bar": 312});
 ```
 
 ## License
