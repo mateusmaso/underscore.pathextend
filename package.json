@@ -1,7 +1,7 @@
 {
   "name": "underscore.pathextend",
   "description": "Underscore helper for extending objects using string paths",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "mateusmaso",
   "keywords": ["underscore", "javascript", "path", "extend"],
   "devDependencies": {
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "underscore": "~1.5.0",
-    "underscore.path": "~0.1.3"
+    "underscore.path": "~0.1.4"
   },
   "scripts": {
     "test": "grunt mochaTest"

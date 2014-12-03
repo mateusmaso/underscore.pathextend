@@ -1,5 +1,6 @@
 underscore.pathextend [![Build Status](https://travis-ci.org/mateusmaso/underscore.pathextend.svg?branch=master)](https://travis-ci.org/mateusmaso/underscore.pathextend)
 =====================
+
 This library is an extension for Underscore which allows extending objects using string paths.
 
 ## Features
@@ -8,8 +9,8 @@ This library is an extension for Underscore which allows extending objects using
 
 ## Dependencies
 
-* underscore.js (>= 1.5)
-  * underscore.path
+* underscore.js (>= 1.5.0)
+  * underscore.path (>= 0.1.4)
 
 ## Node
 
